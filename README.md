@@ -61,5 +61,5 @@ modern-landing-page/
 - Adjusts layout using:
   ```css
   @media (max-width: 768px) { ... }
-git clone https://github.com/your-username/modern-landing-page.git
+https://github.com/lovaraju4406/Day-1.git
 cd modern-landing-page
